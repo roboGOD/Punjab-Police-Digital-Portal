@@ -1,0 +1,24 @@
+
+
+          First Name          :                  Ram 
+
+           Last Name          :               Prasad 
+
+              Gender          :                 Male 
+
+                 DoB          :           1980-08-12 
+
+              Height          :                  6.0 
+
+              Weight          :                   70 
+
+            ID Marks          :                 None 
+
+        Missing Date          :           2017-07-02 
+
+  Last Seen Location          :         Leela Bhawan 
+
+            Religion          :                Hindu 
+
+            District          :              Patiala 
+

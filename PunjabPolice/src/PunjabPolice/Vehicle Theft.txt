@@ -1,0 +1,34 @@
+
+
+               First Name          :               Naruto 
+
+                Last Name          :              Uzumaki 
+
+            Father's Name          :      Minato Kamikaze 
+
+                      DoB          :           2000-10-15 
+
+                  Address          :    Village Hidden In 
+
+                                        The Leaves , Land 
+
+                                                  Of Fire 
+
+             Vehicle Type          :                  Car 
+
+          Vehicle Company          :          Kiba Motors 
+
+            Vehicle Model          :        Akamaru Swift 
+
+            Vehicle Color          :                White 
+
+        License Plate No.          :        LF 11 HL 7860 
+
+               Vehicle ID          :  9860 8342 3249 0924 
+
+     Theft / Missing Date          :           2017-07-05 
+
+ Theft / Missing Location          :  Hidden Rain Village 
+
+                  Contact          :           Killer Bee 
+

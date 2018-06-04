@@ -1,0 +1,14 @@
+
+
+                Name          :                Some1 
+
+              Gender          :                 Male 
+
+                 Dob          :                Some1 
+
+              Spouse          :                Some2 
+
+  Date of Retirement          :           10/04/2010 
+
+             Contact          :        +919876543210 
+

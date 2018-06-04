@@ -1,0 +1,21 @@
+/////------  Punjab Police Digital Portal ------/////
+/////------        By Ishwer Kumar        ------/////
+
+
+Application Login :::
+
+Username : "roboGOD"
+Password : "password1"
+
+Database Login :::
+
+Username : "root"
+Password : ""
+
+Note : 
+
+1. Username And Password are excluding quotes("") and are case sensitive.
+2. Import the database before running the program. The name of database must be "punjabpolice" unless changed in the
+   source code.
+
+/////------ THANK YOU ------//////
