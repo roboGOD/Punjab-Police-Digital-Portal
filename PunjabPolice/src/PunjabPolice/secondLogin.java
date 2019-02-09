@@ -180,7 +180,7 @@ public class secondLogin extends javax.swing.JFrame {
         String pass="";
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = (Connection)DriverManager.getConnection("jdbc:mysql://localhost/punjabpolice","root","");
+            Connection con = (Connection)DriverManager.getConnection("jdbc:mysql://localhost:3306/punjabpolice","root","");
             Statement st = con.createStatement();
             String s = "select * from admin where username='"+userGet+"'";
             ResultSet rs = st.executeQuery(s);
